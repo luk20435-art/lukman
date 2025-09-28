@@ -7,16 +7,16 @@
 ## 🔥 Featured Projects
 
 ### 🧑‍⚕️carpark
-🔗 [ดูโปรเจกต์ NextJs Medical ของผม](https://github.com/luk20435-art/carpark)
+🔗 [ดูโปรเจกต์](https://github.com/luk20435-art/carpark)
 
 ### 🧑‍⚕️ drug-awarenessdrug-awareness
-🔗 [ดูโปรเจกต์ NextJs Medical ของผม](https://github.com/luk20435-art/drug-awareness)
+🔗 [ดูโปรเจกต์](https://github.com/luk20435-art/drug-awareness)
 
 ### 🧑‍⚕️ Medical Skills Learning
-🔗 [ดูโปรเจกต์ NextJs Medical ของผม](https://github.com/luk20435-art/NextJs-Medical)
+🔗 [ดูโปรเจกต์](https://github.com/luk20435-art/NextJs-Medical)
 
 ### 🧑‍⚕️ Mechanical Skills 
-🔗 [ดูโปรเจกต์ NextJs Medical ของผม](https://github.com/luk20435-art/NextJs-Mechanical)
+🔗 [ดูโปรเจกต์](https://github.com/luk20435-art/NextJs-Mechanical)
 
 ---
 ### ⚙️ Automation & IoT Learning
